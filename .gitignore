@@ -1,0 +1,12 @@
+/.vscode
+/.idea
+\venv
+
+*.exe
+*.bat
+*.fish
+*.nu
+*.ps1
+*.json
+
+*PyWhatKit_DB.txt
